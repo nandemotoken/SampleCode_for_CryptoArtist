@@ -1,2 +1,2 @@
 # SampleCode_for_CryptoArtist
-プログラマブルアート作成のためのsolidityテンプレート
+プログラマブルアート作成のためのサンプルコード
