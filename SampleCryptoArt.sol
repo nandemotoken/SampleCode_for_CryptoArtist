@@ -1149,7 +1149,7 @@ contract sampleERC721 is  ERC721URIStorage {
     constructor() ERC721("sample nft", "SAMPLE") {
     
     _safeMint(_msgSender() , 1);
-    _setTokenURI( 1 , "https://nandemotoken.github.io/SampleCode_for_CryptoArtist/sugoi." );
+    _setTokenURI( 1 , "https://nandemotoken.github.io/SampleCode_for_CryptoArtist/sugoi.json" );
 
     } 
 
